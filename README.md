@@ -4,20 +4,20 @@ Hello and welcome to the Ice Cream Parlor Cafe solution! This project has the ob
 
 ## Description
 
-The Ice Cream Parlor Cafe project is designed to streamline the ordering process for customers and simplify menu management for ice cream parlor staff. The main objectives of the project include:
+The Ice Cream Parlor Cafe project aims to make ordering easier for customers and menu management smoother for staff members. Key objectives of the project include:
 
 - **Menu Management**: Maintain and display a list of seasonal flavors and available ingredients.
 - **Search Functionality**: Allow customers to search for specific flavors or ingredients using keywords.
-- **Cart Management**: Facilitate adding flavors and ingredients to a virtual cart, and view a summary of selections along with the total price.
-- **User Interaction**: Provide a user-friendly command-line interface for easy navigation through the menu and cart management.
-- **Database Integration**: Integrate with a SQLite database to store information about seasonal flavors, ingredients, and user carts for data integrity and persistence.
+- **Cart Management**: Making it easy for customers to add items to their cart view a summary of their selections. See the total price.
+- **User Interaction**: PProviding a command line interface for navigation through the menu and cart management.
+- **Database Integration**: Connecting with a database to store details about flavors, ingredients and user carts for data consistency and persistence.
 
 ## Features
 
 - View menu: Display Market seasonal flavors when available and list ingredients on menu.
-- Search: Give your customers the ability to look up keywords such as flavors or ingredients.
+- Search: Enable customers to search for keywords, like flavors or ingredients.
 - Add to Cart: Add flavors and ingredients to a virtual cart, and see a summary of selections plus total price.
-- View Cart: View a summary of selections and total price in the cart.
+- View Cart: Review the items you've added and see the cost displayed in your cart.
 - Exit: Clear user input data and exit the program.
 
 ### Installation:
