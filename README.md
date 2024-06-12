@@ -42,13 +42,6 @@ The Ice Cream Parlor Cafe project is designed to streamline the ordering process
 5. **Open the Project in VS Code:**
    - Open VS Code and click on "File" > "Open Folder", then select the folder where you cloned or extracted the repository.
 
-6. **Install Required Dependencies:**
-   - Open the integrated terminal in VS Code (Ctrl+`) and navigate to the project directory.
-   - Run the following command to install the required dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
 ### Running the Code:
 1. Ensure that you have Python installed on your system.
 2. Run the `application.py` script:
