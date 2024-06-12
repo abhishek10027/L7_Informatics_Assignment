@@ -35,7 +35,7 @@ The Ice Cream Parlor Cafe project aims to make ordering easier for customers and
 4. **Clone the Repository:**
    - Clone the Ice Cream Parlor Cafe repository to your local machine using Git:
      ```bash
-     git clone https://github.com/your_username/ice-cream-parlor-cafe.git
+     git clone https://github.com/abhishek10027/L7_Informatics_Assignment/tree/master.git
      ```
      Or download it as a ZIP file and extract it.
 
