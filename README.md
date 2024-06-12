@@ -50,21 +50,8 @@ The Ice Cream Parlor Cafe project is designed to streamline the ordering process
      ```
 
 ### Running the Code:
-
-1. **Run the Application:**
-   - In the integrated terminal of VS Code, navigate to the project directory.
-   - Run the following command to start the application:
-     ```bash
-     python application.py
-     ```
-
-2. **Perform Operations:**
-   - Follow the prompts in the terminal to perform various operations such as viewing the menu, searching for items, adding items to the cart, viewing the cart, and exiting the program.
-
-## Usage
-
 1. Ensure that you have Python installed on your system.
-2. Run the `main.py` script:
+2. Run the `application.py` script:
 
    ```bash
    python application.py
@@ -72,5 +59,15 @@ The Ice Cream Parlor Cafe project is designed to streamline the ordering process
 
 3. Follow the on-screen prompts to navigate through the menu, search for items, add them to the cart, and view the cart contents.
 4. To exit the program, choose the "Exit" option, which clears user input data and exits the program.
+
+### Some Working Screen Short
+![image](https://github.com/abhishek10027/L7_Informatics_Assignment/assets/132592735/17dbd366-5d02-446e-8111-3d611915ebc5)
+
+![image](https://github.com/abhishek10027/L7_Informatics_Assignment/assets/132592735/e35ee273-ab73-4a43-bf8d-c2584fa706a1)
+
+![image](https://github.com/abhishek10027/L7_Informatics_Assignment/assets/132592735/24520bc9-f86c-4fb4-8446-07e7f633e47a)
+
+
+
 
 
