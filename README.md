@@ -1,8 +1,8 @@
 # Ice Cream Parlor Cafe
 
-Welcome to the Ice Cream Parlor Cafe project! This project aims to provide a simple command-line interface for managing an ice cream parlor's menu and assisting customers with their orders.
+Hello and welcome to the Ice Cream Parlor Cafe solution! This project has the objective of offering a basic CLI where it is possible to administrate an ice cream place menu and help the costumer to make an order.
 
-## Description/Purpose
+## Description
 
 The Ice Cream Parlor Cafe project is designed to streamline the ordering process for customers and simplify menu management for ice cream parlor staff. The main objectives of the project include:
 
@@ -14,16 +14,16 @@ The Ice Cream Parlor Cafe project is designed to streamline the ordering process
 
 ## Features
 
-- View menu: Display seasonal flavors and available ingredients.
-- Search: Search for specific flavors or ingredients using keywords.
-- Add to Cart: Add flavors and ingredients to a virtual cart.
+- View menu: Display Market seasonal flavors when available and list ingredients on menu.
+- Search: Give your customers the ability to look up keywords such as flavors or ingredients.
+- Add to Cart: Add flavors and ingredients to a virtual cart, and see a summary of selections plus total price.
 - View Cart: View a summary of selections and total price in the cart.
 - Exit: Clear user input data and exit the program.
 
 ### Installation:
 
 1. **Install Python:**
-   - If Python is not already installed on your system, download and install it from the [official Python website](https://www.python.org/). Ensure to add Python to your system's PATH during installation.
+   - If you don't already have Python on your system, download and install it from the Python website. Remember to add Python to your system PATH when installing.
 
 2. **Install Visual Studio Code:**
    - Download and install Visual Studio Code (VS Code) from the [official website](https://code.visualstudio.com/).
@@ -44,14 +44,14 @@ The Ice Cream Parlor Cafe project is designed to streamline the ordering process
 
 ### Running the Code:
 1. Ensure that you have Python installed on your system.
-2. Run the `application.py` script:
+2. Run the `application.py`:
 
    ```bash
    python application.py
    ```
 
-3. Follow the on-screen prompts to navigate through the menu, search for items, add them to the cart, and view the cart contents.
-4. To exit the program, choose the "Exit" option, which clears user input data and exits the program.
+3. Now follow through the instructions on the screen to navigate through the menu find items add them to the cart see the cart.
+4. Select Exit and this will clear out the user input data and exit out of the program.
 
 ### Some Working Screen Short
 ![image](https://github.com/abhishek10027/L7_Informatics_Assignment/assets/132592735/17dbd366-5d02-446e-8111-3d611915ebc5)
